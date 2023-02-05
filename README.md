@@ -17,3 +17,15 @@
 
 <p><img src='https://github-readme-stats.vercel.app/api?username=arugerdev&show_icons=true&locale=en&theme=dark' alt='arugerdev'></img></p>
 <p><img src='https://github-readme-stats.vercel.app/api/top-langs?username=arugerdev&show_icons=true&locale=en&layout=compact&theme=dark' alt='arugerdev'></img></p>
+
+## Languages and more
+
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3 icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='react icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg' alt='unity icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg' alt='yarn icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode icon'/>
+<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='npm icon'/>
