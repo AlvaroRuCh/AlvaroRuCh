@@ -45,7 +45,7 @@
 <a href='https://code.visualstudio.com/' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode icon'/>
 </a>
-<a href='https://www.npm' target='_blank_'>
+<a href='https://www.npmjs.com/' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='npm icon'/>
 </a>
 <div>
