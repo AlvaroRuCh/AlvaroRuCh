@@ -21,13 +21,31 @@
 ## Languages and more
 
 <div style='display:flex; flex-direction:row;'>
+<a href='https://es.wikipedia.org/wiki/HTML' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html icon'/>
+</a>
+<a href='https://es.wikipedia.org/wiki/CSS' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3 icon'/>
+</a>
+<a href='https://es.wikipedia.org/wiki/JavaScript' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript icon'/>
+</a>
+<a href='https://es.reactjs.org/' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='react icon'/>
+</a>
+<a href='https://es.wikipedia.org/wiki/C_Sharp' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp icon'/>
+</a>                                                                                                                                          
+<a href='https://unity.com/es' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg' alt='unity icon'/>
+</a>
+<a href='https://yarnpkg.com/' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg' alt='yarn icon'/>
+</a>                                                                                                                                    
+<a href='https://code.visualstudio.com/' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode icon'/>
+</a>
+<a href='https://www.npm' target='_blank_'>
 <img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='npm icon'/>
+</a>
 <div>
