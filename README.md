@@ -15,8 +15,8 @@
 
 ### Stats
 
-<p><img src='https://github-readme-stats.vercel.app/api?username=arugerdev&show_icons=true&locale=en&theme=dark' alt='arugerdev'></img></p>
-<p><img src='https://github-readme-stats.vercel.app/api/top-langs?username=arugerdev&show_icons=true&locale=en&layout=compact&theme=dark' alt='arugerdev'></img></p>
+<p><img src='https://github-readme-stats-sigma-five.vercel.app/api?username=arugerdev&show_icons=true&locale=en&theme=dark' alt='arugerdev'></img></p>
+<p><img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arugerdev&show_icons=true&locale=en&layout=compact&theme=dark' alt='arugerdev'></img></p>
 
 ## Languages and more
 
